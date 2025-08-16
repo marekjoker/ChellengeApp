@@ -23,4 +23,4 @@ string surname = "1";
 string result = name + surname + myAge;
 Console.WriteLine(result);
 char myVar15 = 'c';
-var result2 =  name.ToArray();
+var result2 = name.ToArray();
