@@ -2,7 +2,7 @@
 int myAge = 120;
 int newAge = myAge + 5;
 //Console.WriteLine(newAge);
-int myVar = int.MaxValue;
+//int myVar = int.MaxValue;
 int myVar2 = int.MinValue;
 uint myVar3 = uint.MaxValue;
 uint myVar4 = uint.MinValue;
@@ -23,4 +23,4 @@ string surname = "1";
 string result = name + surname + myAge;
 Console.WriteLine(result);
 char myVar15 = 'c';
-var result2 =  name.ToArray();
+var result2 = name.ToArray();
