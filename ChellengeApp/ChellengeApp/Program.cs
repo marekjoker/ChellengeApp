@@ -1,8 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-int myAge = 120;
+﻿int myAge = 120;
 int newAge = myAge + 5;
 //Console.WriteLine(newAge);
 int myVar = int.MaxValue;
+int myVar2 = int.MinValue;
 int myVar2 = int.MinValue;
 uint myVar3 = uint.MaxValue;
 uint myVar4 = uint.MinValue;
