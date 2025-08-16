@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Witaj, Świecie!2");
+Console.WriteLine("Witaj, Świecie!3a");
+
